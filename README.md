@@ -1,0 +1,2 @@
+# Adaptive-Site
+fictitious website
