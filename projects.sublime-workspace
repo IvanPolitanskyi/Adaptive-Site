@@ -1,0 +1,717 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"box-s",
+				"box-sizing\tproperty"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"fsi",
+				"font-size\tproperty"
+			],
+			[
+				"bacg",
+				"background-color\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"j",
+				"justify-content\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"bore",
+				"border-radius\tproperty"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"i",
+				"img/"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"c",
+				"center\tjustify-content"
+			],
+			[
+				"hi",
+				"height\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"mari",
+				"margin\tproperty"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"du",
+				"document"
+			],
+			[
+				"rig",
+				"right\tproperty"
+			],
+			[
+				"borde",
+				"border-bottom\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			],
+			[
+				"animat",
+				"animation-delay\tproperty"
+			],
+			[
+				"anima",
+				"animation-delay\tproperty"
+			],
+			[
+				"ani",
+				"animation\tproperty"
+			],
+			[
+				"tra",
+				"translateX()\ttransform"
+			],
+			[
+				"on",
+				"none\ttext-decoration"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"lf",
+				"left\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"grid-temla",
+				"grid-template-rows"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ro",
+				"rotateX()"
+			],
+			[
+				"per",
+				"perspective-origin"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"fle",
+				"flex-shrink"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"fxe",
+				"flex-direction"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"ord",
+				"order"
+			],
+			[
+				"f",
+				"flex-start"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"padi",
+				"padding"
+			],
+			[
+				"bo",
+				"box-sizing"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"backr",
+				"background"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"word",
+				"word-spacing"
+			],
+			[
+				"marig",
+				"margin-bottom"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"t",
+				"title\tAttr"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"h",
+				"hspace\tAttr"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"re",
+				"ready\t$(document).ready"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 333.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"preti",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"HTML",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"HTM",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"PRET",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"Ht",
+				"HTMLPrettify"
+			],
+			[
+				"ht",
+				"HTMLPrettify"
+			],
+			[
+				"prettify",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/politanskiy/Documents/Developer/Adaptive-Site/CSS/main.css",
+		"/Users/politanskiy/Documents/Developer/Adaptive-Site/projects.html",
+		"/Users/politanskiy/Documents/Developer/Adaptive-Site/index.html",
+		"/Users/politanskiy/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/Users/politanskiy/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (OSX).sublime-keymap",
+		"/Users/politanskiy/Documents/Developer/CSS_TRICS/main.css",
+		"/Users/politanskiy/Documents/Developer/CSS_TRICS/index.html",
+		"/Users/politanskiy/Documents/Developer/CSS_TRICS/main.cs",
+		"/Users/politanskiy/Documents/Developer/Project_1/index.html",
+		"/Users/politanskiy/Documents/Developer/Adaptive Site/JS/script.js",
+		"/Users/politanskiy/Documents/Developer/Adaptive Site/index.html",
+		"/Users/politanskiy/Documents/Developer/Adaptive Site/CSS/main.css",
+		"/Users/politanskiy/Documents/Developer/Adaptive Site/index.hrml",
+		"/Users/politanskiy/Documents/Developer/Keyboard/style.css",
+		"/Users/politanskiy/Documents/Developer/Keyboard/index.html",
+		"/Users/politanskiy/Documents/Developer/Project_1/CSS/style.css",
+		"/Users/politanskiy/Desktop/New_Folder/index.html",
+		"/Users/politanskiy/Documents/Developer/From_Git/index.html",
+		"/Users/politanskiy/Documents/Developer/new_folder/index.html",
+		"/Users/politanskiy/Documents/Developer/front-end-Interview-Questions/index.html",
+		"/Users/politanskiy/Documents/Developer/Project_1/README.md",
+		"/Users/politanskiy/Documents/Project_1/index.html",
+		"/Users/politanskiy/Documents/Project_2/index.html",
+		"/Users/politanskiy/Documents/Project_2/CSS/style.css",
+		"/Users/politanskiy/Documents/Project_1/CSS/style.css",
+		"/Users/politanskiy/Documents/Project_1/JS/skript.js",
+		"/Applications/Adobe Photoshop CS6/Presets/Scripts/Stack Scripts Only/Terminology.jsx",
+		"/Users/politanskiy/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/politanskiy/Desktop/main.css",
+		"/Users/politanskiy/Desktop/index.html",
+		"/Users/politanskiy/Desktop/python.py",
+		"/Users/politanskiy/Documents/Hillel/Download Proj/Grand - Event and Conference Template/grand-pro-opl/assets/js/jquery.nav.js",
+		"/Users/politanskiy/Documents/Hillel/Download Proj/Grand - Event and Conference Template/grand-pro-opl/assets/js/main.js",
+		"/Users/politanskiy/Documents/Hillel/Download Proj/Grand - Event and Conference Template/grand-pro-opl/assets/js/map.js",
+		"/Users/politanskiy/Documents/Hillel/Download Proj/Grand - Event and Conference Template/grand-pro-opl/assets/css/main.css",
+		"/Users/politanskiy/Documents/Hillel/Download Proj/Grand - Event and Conference Template/grand-pro-opl/index.html",
+		"/Users/politanskiy/Desktop/sublime/index.html",
+		"/Users/politanskiy/Desktop/sublime/style/main.css",
+		"/Users/politanskiy/Desktop/inde.html",
+		"/Users/politanskiy/Documents/Hillel/Class/11_04_zad/index.html",
+		"/Users/politanskiy/Documents/Hillel/Dz/dark_maket/index.html",
+		"/Users/politanskiy/Desktop/test/index.html",
+		"/Users/politanskiy/Documents/Hillel/Download Proj/templated-industrious/index.html",
+		"/Users/politanskiy/Documents/Hillel/Download Proj/cw16/assets/styles/main.less",
+		"/Users/politanskiy/Documents/Hillel/Download Proj/cw16/index.html",
+		"/Users/politanskiy/Desktop/fly/assets/style/main.less",
+		"/Users/politanskiy/Desktop/fly/index.html",
+		"/Users/politanskiy/Desktop/cw16/index.html",
+		"/Users/politanskiy/Desktop/cw16/style/main.less",
+		"/Users/politanskiy/Desktop/cw16/style/main.css",
+		"/Users/politanskiy/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/account-15292694647104163277/postbox/media/telegram-cloud-document-2-5386477953754333532--3436170555134637530.sql",
+		"/Users/politanskiy/Documents/Hillel/Class/info.txt",
+		"/Users/politanskiy/Documents/Hillel/Class/last/inde.html",
+		"/Users/politanskiy/Documents/Hillel/Class/last/style/main.css",
+		"/Users/politanskiy/Documents/Hillel/Class/25_04/index.html",
+		"/Users/politanskiy/Documents/Hillel/Download Proj/templated-urban/assets/css/main.css",
+		"/Users/politanskiy/Documents/Hillel/Dz/sublime2/assets/style/main.css",
+		"/Users/politanskiy/Downloads/sublime 2/assets/style/main.css",
+		"/Users/politanskiy/Downloads/sublime/assets/style/main.css",
+		"/Users/politanskiy/Documents/Hillel/Dz/dark_maket/assets/style/main.css",
+		"/Users/politanskiy/Documents/Hillel/Dz/maket_second/assets/style/main.css",
+		"/Users/politanskiy/Documents/Hillel/Class/07.03/assets/style/main.css",
+		"/Users/politanskiy/Downloads/maket /assets/styles/main.css",
+		"/Users/politanskiy/Documents/Hillel/Download Proj/Grand - Event and Conference Template/grand-pro-opl/assets/php/form-process.php",
+		"/Users/politanskiy/Documents/Hillel/Download Proj/Grand - Event and Conference Template/grand-pro-opl/assets/js/jquery-min.js",
+		"/Users/politanskiy/Documents/Hillel/Class/04_04/assets/style/main.css",
+		"/Users/politanskiy/Documents/Hillel/Class/25_04/assets/style/main.css",
+		"/Users/politanskiy/Documents/Hillel/Example/style_second.css",
+		"/Users/politanskiy/Documents/Hillel/Download Proj/cw16/assets/icon/done.svg",
+		"/Users/politanskiy/Documents/Hillel/Download Proj/Grand - Event and Conference Template/grand-pro-opl/assets/fonts/line-icons.css",
+		"/Users/politanskiy/Downloads/html-css-layout-files/В•абв™†/css/main.css",
+		"/Users/politanskiy/Documents/Hillel/Download Proj/templated-urban/index.html",
+		"/Users/politanskiy/Documents/Hillel/Download Proj/templated-urban/elements.html",
+		"/Users/politanskiy/Documents/Hillel/Download Proj/templated-urban/generic.html",
+		"/Users/politanskiy/Downloads/Source.cpp",
+		"/Users/politanskiy/Documents/Hillel/Download Proj/templated-urban/assets/css/font-awesome.min.css",
+		"/Users/politanskiy/Desktop/delete.txt",
+		"/Users/politanskiy/Documents/Hillel/Class/18_04_Boot/assets/style/main.less",
+		"/Users/politanskiy/Documents/Hillel/Class/18_04_Boot/assets/style/main.css",
+		"/Users/politanskiy/Documents/Hillel/Class/18_04_Boot/index.html",
+		"/Users/politanskiy/Documents/Hillel/Download Proj/Новая папка 2/assets/style/css/main.css",
+		"/Users/politanskiy/Documents/Hillel/Download Proj/templated-industrious/assets/css/main.css",
+		"/Users/politanskiy/Desktop/Новая папка/grand-pro-opl/index.html",
+		"/Users/politanskiy/Desktop/Новая папка 2/index.html",
+		"/Users/politanskiy/Desktop/new/styles/main.less",
+		"/Users/politanskiy/Desktop/new/index.html",
+		"/Users/politanskiy/Desktop/cw16/assets/styles/main.less",
+		"/Users/politanskiy/Desktop/cw16/assets/styles/main.css",
+		"/Users/politanskiy/Documents/Hillel/Class/15_04/assets/style/main.less",
+		"/Users/politanskiy/Documents/Hillel/Class/15_04/index.html",
+		"/Users/politanskiy/Desktop/new/style/main.css",
+		"/Users/politanskiy/Desktop/new/style/main.less",
+		"/Users/politanskiy/Documents/Hillel/Class/deadline/index.html",
+		"/Users/politanskiy/Documents/Hillel/Class/deadline/assets/style/main.css",
+		"/Users/politanskiy/Documents/Hillel/Class/deadline/assets/style/main.less",
+		"/Users/politanskiy/Documents/ВУЗ/Английский тексты/Object.txt",
+		"/Users/politanskiy/Documents/Hillel/Class/11_04_zad/assets/style/style.css",
+		"/Users/politanskiy/Documents/Hillel/Class/11_04_zad/assets/style/style.less",
+		"/Users/politanskiy/Desktop/sublime2/assets/style/main.css",
+		"/Users/politanskiy/Desktop/sublime2/index.html",
+		"/Users/politanskiy/Desktop/Fundamentals of programming.txt",
+		"/Users/politanskiy/Desktop/Engineering and computer graphics.txt",
+		"/Users/politanskiy/Documents/Hillel/Class/04_04/assets/style/main.less",
+		"/Users/politanskiy/Documents/Hillel/Class/04_04/index.html",
+		"/Users/politanskiy/Documents/Hillel/Class/28_03/assets/style/main.css",
+		"/Users/politanskiy/Documents/Hillel/Class/28_03/index.html",
+		"/Users/politanskiy/Downloads/sublime 2/index.html",
+		"/Users/politanskiy/Documents/Hillel/Class/25_03/assets/style/main.css",
+		"/Users/politanskiy/Documents/Hillel/Class/25_03/index.html",
+		"/Users/politanskiy/Downloads/sublime/index.html",
+		"/Users/politanskiy/Desktop/stylus/assets/style/main.css",
+		"/Users/politanskiy/Documents/Hillel/Class/07.03/index.html",
+		"/Users/politanskiy/Desktop/stylus/index.html",
+		"/Users/politanskiy/Desktop/header/assets/style/main.css",
+		"/Users/politanskiy/Desktop/header/index.html",
+		"/Users/politanskiy/Documents/Hillel/Class/21_03/assets/style/second.css",
+		"/Users/politanskiy/Documents/Hillel/Class/21_03/index_second.html",
+		"/Users/politanskiy/Documents/Hillel/Class/21_03/assets/style/main.css",
+		"/Users/politanskiy/Documents/Hillel/Class/21_03/index.html",
+		"/Users/politanskiy/Desktop/flex-box/assets/style/main.css",
+		"/Users/politanskiy/Desktop/flex-box/index.html",
+		"/Users/politanskiy/Library/Application Support/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/Users/politanskiy/Documents/Hillel/Class/25_02/info.txt",
+		"/Users/politanskiy/Documents/Hillel/Class/First/tegs.txt",
+		"/Users/politanskiy/Documents/Hillel/Class/18_03/index.html",
+		"/Users/politanskiy/Documents/Hillel/Class/18_03/assets/style/main.css",
+		"/Users/politanskiy/Desktop/table/index.html",
+		"/Users/politanskiy/Desktop/table/picture.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "projects.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pro",
+				"~/Documents/Project_1/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
