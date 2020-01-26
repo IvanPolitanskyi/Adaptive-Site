@@ -237,6 +237,10 @@ footer nav a:hover {
     padding: 0 .5rem;
 }
 
+#map {
+    width: 100%;
+    height: 400px;
+}
 
 @media screen and (max-width: 768px) {
     .topnav a:not(:first-child) {

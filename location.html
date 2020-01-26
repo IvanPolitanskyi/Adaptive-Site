@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="CSS/main.css">
+    <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
+    <title>Mirralise</title>
+</head>
+
+<body>
+    <header>
+        <div class="logo">
+            <a href="index.html"><img class="graficlogo" src="IMG/logo.png" alt="Logo"></a>
+        </div>
+        <nav>
+            <div class="topnav" id="myTopnav">
+                <a href="index.html">HOME</a>
+                <a href="projects.html">PROJECTS</a>
+                <a href="blog.html">BLOG</a>
+                <a href="contact.html">CONTACT</a>
+                <a href="about.html">ABOUT</a>
+                <a href="services.html">SERVICES</a>
+                <a href="location.html">LOCATION</a>
+                <a id="menu" href="#" class="icon">&#9776;</a>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <h1>Location</h1>
+        <div id="map"></div>
+    </main>
+    <footer>
+        <nav>
+            <a href="index.html">HOME</a>
+            <a href="projects.html">PROJECTS</a>
+            <a href="blog.html">BLOG</a>
+            <a href="contact.html">CONTACT</a>
+            <a href="about.html">ABOUT</a>
+            <a href="services.html">SERVICES</a>
+            <a href="location.html">LOCATION</a>
+        </nav>
+        <div class="logo">
+            <a href="index.html"><img class="graficlogo" src="IMG/logo.png" alt=""></a>
+        </div>
+        <div class="social">
+            <a href="mailto:vanyapolitanskiy@gmail.com" target="blank"><img src="IMG/social_icons/em.png" alt="e-mail"></a>
+            <!-Target="blank - Загружает страницу в новое окно бразуера"->
+            <a href="https://www.facebook.com/profile.php?id=100008325156085" target="blank"><img src="IMG/social_icons/face.png" alt="facebook"></a>
+            <a href="https://www.instagram.com/__politik__/" target="blank"><img src="IMG/social_icons/inst.png" alt="instagram"></a>
+        </div>
+        <p>Politansyi 2019</p>
+    </footer>
+    <script>
+    function initMap() {
+        var uluru = { lat: 46.3070409, lng: 30.6629099 };
+
+        var map = new google.maps.Map(
+            document.getElementById('map'), { zoom: 15, center: uluru });
+
+        var marker = new google.maps.Marker({ position: uluru, map: map });
+    }
+    </script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBLWvlpM1A_8nh_HY4Wt1evRT71PEfZe6E&callback=initMap">
+    </script>
+    <script src="JS/script.js"></script>
+</body>
+
+</html>
