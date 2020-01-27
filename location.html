@@ -53,12 +53,13 @@
     </footer>
     <script>
     function initMap() {
-        var uluru = { lat: 46.3070409, lng: 30.6629099 };
+        var uluru = { lat: 46.306800, lng: 30.665231 };
 
         var map = new google.maps.Map(
-            document.getElementById('map'), { zoom: 15, center: uluru });
+            document.getElementById('map'), { zoom: 17, center: uluru });
 
-        var marker = new google.maps.Marker({ position: uluru, map: map });
+        var marker = new google.maps.Marker({ position: uluru, map: map, title: "You can find us here. 3 entrance apartment 91" });
+
     }
     </script>
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBLWvlpM1A_8nh_HY4Wt1evRT71PEfZe6E&callback=initMap">
